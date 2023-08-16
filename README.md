@@ -1,1 +1,1 @@
-# ECOLE42_Minitalk
+# minitalk
