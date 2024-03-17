@@ -1,7 +1,4 @@
-# minitalk
-
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/1196432116779597904/1196432120592224308/success.png?ex=65e5bfbe&is=65d34abe&hm=e0c286f2364b4840f63cb13b799222b3ded4787efb08981322979049b205580b" sttle="image-rendering: pixelated;"></p>
+# <img src="https://github.com/TeomanDeniz/TeomanDeniz/blob/main/images/repo_projects/125.png" style="width: 75PX;"> minitalk
 
 **Description**: The purpose of this project is to code a small data exchange program using UNIX signals. It is an introductory project for the bigger UNIX projects that will appear later on in the cursus.
 
